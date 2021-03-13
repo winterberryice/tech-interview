@@ -15,7 +15,7 @@ We are currently working with...
  * Angular 10+
  * CSS?
  * Jest + cypress testing
- * Storybook as a radip development tool and component library
+ * Storybook as a rapid development tool and component library
  * We currently support the latest 2 versions of Edge, Chrome, Firefox and Safari (plus ie11)
 
 ## What we're looking for
@@ -33,8 +33,8 @@ We are currently working with...
 
 ### Backend
 
- * [CRUD for Idea board](/back-end/idea-board) \[2-3 hours] \[Front-end] \[Angular]
-   * Idea board app where you can create, update, delete and sort items.
+ * [CRUD for Idea board](/back-end/idea-board) \[3-4 hours] \[Back-end] \[TypeScript]
+   * Part of the idea board app where you can create, update, delete and sort items.
 
 ### Frontend
 
