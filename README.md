@@ -20,7 +20,7 @@ At ContentCal we use Typescript as a common language between the Front & Back en
 
 ### Frontend
 
- * [Idea Board](/front-end/ccal-apps) \[3-4 hours] \[Front-end] \[Angular]
+ * [Idea Board](/front-end) \[3-4 hours] \[Front-end] \[Angular]
    * A starter app where you can create, update, delete and sort items.
 
 
