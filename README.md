@@ -11,7 +11,8 @@ At ContentCal we use Typescript as a common language between the Front & Back en
 
 ## Apps
 
- > Each app contains 1 (or more) tech challenge(s). Please pick and choose one or more to complete, and one that is relevant to the job you are applying for
+Each app contains 1 (or more) tech challenge(s).
+Please pick the task that is relevant to the job you are applying for, and clone the repo.
 
 ### Backend
 
@@ -27,3 +28,4 @@ At ContentCal we use Typescript as a common language between the Front & Back en
 ## What happend next
 
 The solutions will be reviewed by the relevant tech team members and then used as the opener in the Technical interview
+> Please provide the link to your solution
