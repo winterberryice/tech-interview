@@ -28,4 +28,5 @@ Please pick the task that is relevant to the job you are applying for, and clone
 ## What happend next
 
 The solutions will be reviewed by the relevant tech team members and then used as the opener in the Technical interview
-> Please provide the link to your solution
+
+> Please Upload you solution to your GitHub account and email the link to your uploaded repo
