@@ -11,8 +11,10 @@ At ContentCal we use Typescript as a common language between the Front & Back en
 
 ## Apps
 
-Each app contains 1 (or more) tech challenge(s).
-Please pick the task that is relevant to the job you are applying for, and clone the repo.
+1. Clone the whole Repo
+2. Please pick the task that is relevant to the job you are applying for and follow the READ.ME
+3. Start the technical challenge(s).
+4. Submit your solution(s) by uploading to **your** GitHub account and share the link
 
 ### Backend
 
@@ -28,5 +30,3 @@ Please pick the task that is relevant to the job you are applying for, and clone
 ## What happend next
 
 The solutions will be reviewed by the relevant tech team members and then used as the opener in the Technical interview
-
-> Please Upload the solution to your GitHub account and email the link to your uploaded repo
