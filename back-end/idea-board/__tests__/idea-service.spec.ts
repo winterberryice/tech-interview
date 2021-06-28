@@ -136,4 +136,9 @@ Array [
             })
         })
     })
+
+    test('throws if idea do not exits' , async () => {
+        const ideaService = new IdeaService(notificationServiceMock)
+        expect(ideaService.update({id: -1})).rejects.toThrow('Idea with id: -1 not found')
+    })
 })
